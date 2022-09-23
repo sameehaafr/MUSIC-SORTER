@@ -1,1 +1,1 @@
-# ML-KNN-Spotify-Playlist
+# Spotify Music Sorter using KNN
